@@ -1,2 +1,2 @@
-java script
-
+<script>
+</script>
