@@ -1,3 +1,2 @@
 <script>
-oi
 </script>
