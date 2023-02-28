@@ -7,8 +7,8 @@ Minhas Hbilidades:
  - CSS 3
  - JavaScript
  - PHP
- - MySQL - Aprimorando mysql
- - Git/GitHUb - Aprimorando o GIT/ GITHUB
-
+ - MySQL
+ - Git/GitHUb - Aprimorando o GIT/ GITHUB 
  
+
 
