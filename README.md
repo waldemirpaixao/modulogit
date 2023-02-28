@@ -8,6 +8,6 @@ Minhas Hbilidades:
  - JavaScript
  - PHP
  - MySQL
- - Git/GitHUb - Aprimorando o GIT/ GITHUB 
+ - Git/GitHUb - Aprimorando o GIT/ GITHUB
  
 
